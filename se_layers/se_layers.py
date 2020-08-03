@@ -84,7 +84,7 @@ class ChannelSpatialSELayer1d(nn.Module):
     def forward(self, input_tensor):
         """
 
-        :param input_tensor: X, shape = (batch_size, num_channels, H, W)
+        :param input_tensor: X, shape = (batch_size, num_channels, W)
         :return: output_tensor
         """
 
