@@ -12,6 +12,6 @@ Code lightly modified from initial 2d/3d implementation on [AI Med's](https://gi
 
 ## Further info:
 For further reading and tests:
-(i) https://arxiv.org/pdf/1709.01507.pdf
-(ii) https://arxiv.org/pdf/1803.02579.pdf
-(iii) https://arxiv.org/pdf/1808.08127.pdf
+(i) https://arxiv.org/pdf/1709.01507.pdf  
+(ii) https://arxiv.org/pdf/1803.02579.pdf  
+(iii) https://arxiv.org/pdf/1808.08127.pdf  
